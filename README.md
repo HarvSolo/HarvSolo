@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @HarvSolo
 - 👀 I’m interested in gaming.
-- 🌱 I’m currently learning to code minecraft mods.
-- 💞️ I’m looking to collaborate on minecraft mods.
